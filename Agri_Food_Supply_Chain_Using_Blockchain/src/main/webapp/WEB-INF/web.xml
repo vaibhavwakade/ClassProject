@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>Agri Food Supply Chain</display-name>
+  <welcome-file-list>
+    <welcome-file>LoginPage.jsp</welcome-file>
+    <welcome-file>Admin_DistributePayBillDataShow.jsp</welcome-file>
+    <welcome-file>Admin_updateProduct.jsp</welcome-file>
+    <welcome-file>AdminHome.jsp</welcome-file>
+    <welcome-file>adminmenu.jsp</welcome-file>
+    <welcome-file>AdminUpdateProduct.jsp</welcome-file>
+    <welcome-file>CHome.jsp</welcome-file>
+    <welcome-file>D_DataShow.jsp</welcome-file>
+    <welcome-file>demo.css</welcome-file>
+    <welcome-file>Dist_ShowProduct.jsp</welcome-file>
+    <welcome-file>Dist_updateProduct.jsp</welcome-file>
+    <welcome-file>distmenu.jsp</welcome-file>
+    <welcome-file>Distribute_UserPayBillDataShow.jsp</welcome-file>
+    <welcome-file>DistributeDataShow.jsp</welcome-file>
+    <welcome-file>DistUpdateProduct.jsp</welcome-file>
+    <welcome-file>Home.jsp</welcome-file>
+    
+    <welcome-file>LoginPage.jsp</welcome-file>
+    <welcome-file>OrderShow.jsp</welcome-file>
+    <welcome-file>QRCode_details.jsp</welcome-file>
+    
+    <welcome-file>RegisterPage.jsp</welcome-file>
+    
+    <welcome-file>titlepage.jsp</welcome-file>
+    <welcome-file>U_DataShow.jsp</welcome-file>
+    
+    <welcome-file>U_Dist_ShowProduct.jsp</welcome-file>
+    
+    <welcome-file>U_DistributeDataShow.jsp</welcome-file>
+    
+    <welcome-file>U_OrderShow.jsp</welcome-file>
+    <welcome-file>U_QRCode_details.jsp</welcome-file>
+    <welcome-file>UpdateProduct.jsp</welcome-file>
+    
+  </welcome-file-list>
+</web-app>
